@@ -1,21 +1,21 @@
 Project Title:
           
-          🔸 Predicting The Energy Output Of Wind Turbine Based On Weather Condition 
+          ✴️ Predicting The Energy Output Of Wind Turbine Based On Weather Condition 
 
 Project Domain:
 
-          🔸 Applied Data Science
+          ✴️ Applied Data Science
 
 Team ID:
 
-          🔸 PNT2022TMID42367
+          ✴️ PNT2022TMID42367
   
 Team Members:
 
-          🔸 SATHISH T
+          ✴️ SATHISH T
           
-          🔸 HARI HARA SUDHAN M
+          ✴️ HARI HARA SUDHAN M
           
-          🔸 NANDHA KUMAR S
+          ✴️ NANDHA KUMAR S
           
-          🔸 UDHAYA KUMAR S
+          ✴️ UDHAYA KUMAR S
